@@ -2,7 +2,7 @@
     "app": {
         "loading": "Ŝarĝo...",
         "offline": "Tie estas ne konekton, ĉu vi enreta?",
-        "logginIn": "Ensalutadon en......"
+        "logginIn": "Ensalutadon en..."
     },
     "error": {
         "insufficientRights": "Vi ne havas sufiĉe rajtigoj por tio agon."
@@ -13,9 +13,12 @@
         "save": "Konservi",
         "edit": "Redakti",
         "send": "Sendi",
+        "next": "Sekva",
+        "previous": "Antaŭa",
+        "back": "Reiru",
+        "skip": "Ignoru",
         "sending": "Sendado...",
         "create": "Krei",
-        "select": "Elekti",
         "tryToReconnect": "Provu konekti"
     },
     "commonWords": {
@@ -26,8 +29,6 @@
         "with": "kun",
         "and": "kaj",
         "on": "sur",
-        "per": "per",
-        "total":"Tuta sumo",
-        "at": "ĉe"
+        "per": "en"
     }
 }
