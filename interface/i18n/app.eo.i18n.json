@@ -1,0 +1,33 @@
+{
+    "app": {
+        "loading": "Ŝarĝo...",
+        "offline": "Tie estas ne konekton, ĉu vi enreta?",
+        "logginIn": "Ensalutadon en......"
+    },
+    "error": {
+        "insufficientRights": "Vi ne havas sufiĉe rajtigoj por tio agon."
+    },
+    "buttons": {
+        "ok": "Bona",
+        "cancel": "Nuligi",
+        "save": "Konservi",
+        "edit": "Redakti",
+        "send": "Sendi",
+        "sending": "Sendado...",
+        "create": "Krei",
+        "select": "Elekti",
+        "tryToReconnect": "Provu konekti"
+    },
+    "commonWords": {
+        "you": "Vi",
+        "send": "Sendi",
+        "or": "aŭ",
+        "of": "de",
+        "with": "kun",
+        "and": "kaj",
+        "on": "sur",
+        "per": "per",
+        "total":"Tuta sumo",
+        "at": "ĉe"
+    }
+}
